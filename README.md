@@ -106,8 +106,5 @@ npm start
 
 This project is open-source under the [MIT License](LICENSE).
 
-## Contact
 
-- **GitHub:** [Shashidharmp18](https://github.com/Shashidharmp18)
-- **Email:** shashidharpatgar8\@gmail.com
 
